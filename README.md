@@ -1,5 +1,6 @@
 # Data Analysis and Management Using MongoDB: 
-<p> A Case Study of UK Food Establishments
+# A Case Study of UK Food Establishments
+
 ___
 
 ## Summary of Analysis:
